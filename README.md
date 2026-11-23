@@ -2,7 +2,7 @@
 
 An end-to-end, leakage-free **24-hour day-ahead solar PV forecasting system** for Germany's **TenneT / Bavaria** transmission control zone—combining multi-API telemetry fusion, solar array physics, causal fleet capacity normalization, and real-time **TreeSHAP** explainability.
 
-🔗 **[Launch Live Interactive What-If Simulator (Streamlit)](https://your-app-name.streamlit.app)** *(Add your link after deploying)*
+🔗 **[https://bavaria-solar-forecaster.streamlit.app/](https://bavaria-solar-forecaster.streamlit.app/)
 
 ---
 
