@@ -63,3 +63,18 @@ bavaria-solar-forecaster/
 ├── requirements.txt
 ├── packages.txt                           # System OpenMP library (libgomp1) for LightGBM
 └── README.md
+---
+
+## 🚀 How to Run Locally
+```bash
+git clone [https://github.com/your-username/bavaria-solar-forecaster.git](https://github.com/your-username/bavaria-solar-forecaster.git)
+cd bavaria-solar-forecaster
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+---
+
+## 📂 Data Sources & Licenses
+* **Grid Generation & Load Telemetry:** Bundesnetzagentur | [SMARD.de](https://www.smard.de/) (TenneT Control Zone, licensed under **CC BY 4.0**).
+* **Historical Meteorological & Irradiance Data:** [Open-Meteo Historical Weather API](https://open-meteo.com/) (ERA5 / DWD reanalysis archive, licensed under **CC BY 4.0**).
