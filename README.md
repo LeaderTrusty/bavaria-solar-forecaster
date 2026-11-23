@@ -63,6 +63,7 @@ bavaria-solar-forecaster/
 ├── requirements.txt
 ├── packages.txt                           # System OpenMP library (libgomp1) for LightGBM
 └── README.md
+```
 ---
 
 ## 🚀 How to Run Locally
@@ -71,7 +72,7 @@ git clone [https://github.com/LeaderTrusty/bavaria-solar-forecaster.git](https:/
 cd Solar-Power_Forcasting
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 ---
 
 ## 📂 Data Sources & Licenses
