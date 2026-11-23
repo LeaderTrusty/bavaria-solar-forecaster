@@ -2,7 +2,7 @@
 
 An end-to-end, leakage-free **24-hour day-ahead solar PV forecasting system** for Germany's **TenneT / Bavaria** transmission control zone—combining multi-API telemetry fusion, solar array physics, causal fleet capacity normalization, and real-time **TreeSHAP** explainability.
 
-🔗 **[https://bavaria-solar-forecaster.streamlit.app/](https://bavaria-solar-forecaster.streamlit.app/)
+🔗 **[Launch Live Interactive What-If Simulator (Streamlit)](https://bavaria-solar-forecaster.streamlit.app/)**
 
 ---
 
@@ -67,11 +67,10 @@ bavaria-solar-forecaster/
 
 ## 🚀 How to Run Locally
 ```bash
-git clone [https://github.com/LeaderTrusty/Solar-Power-Forecasting.git](https://github.com/LeaderTrusty/Solar-Power-Forecasting.git)
-cd Solar-Power-Forecasting
+git clone [https://github.com/LeaderTrusty/bavaria-solar-forecaster.git](https://github.com/LeaderTrusty/bavaria-solar-forecaster.git)
+cd Solar-Power_Forcasting
 pip install -r requirements.txt
 streamlit run app.py
-```
 
 ---
 
