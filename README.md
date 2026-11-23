@@ -67,8 +67,8 @@ bavaria-solar-forecaster/
 
 ## 🚀 How to Run Locally
 ```bash
-git clone [https://github.com/your-username/bavaria-solar-forecaster.git](https://github.com/your-username/bavaria-solar-forecaster.git)
-cd bavaria-solar-forecaster
+git clone [https://github.com/LeaderTrusty/Solar-Power-Forecasting.git](https://github.com/LeaderTrusty/Solar-Power-Forecasting.git)
+cd Solar-Power-Forecasting
 pip install -r requirements.txt
 streamlit run app.py
 ```
